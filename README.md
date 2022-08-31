@@ -13,7 +13,7 @@
 #### Requirements
 `Visual C++ Redistributable for Visual Studio 2015-2019`
 
-[Download `mysqld.pdb`](https://drive.google.com/file/d/1j8NgulxzQq9G8E7oFsBhC3euaCng6dWz/view?usp=sharing) and add to folder `..\Server\bin\mysql-8.0.23\bin` (Too large for GitHub)
+[Download `mysqld.pdb`](https://drive.google.com/file/d/1pJo-Yx_K5Q6Ee8adUhXpoJXM09vbVIT3/view?usp=sharing) and add to folder `..\Server\bin\mysql-8.0.23\bin` (Too large for GitHub)
 
 #### Set the directory path
 If your path is `C:\CphuxWebsite\Server` you can skip this section
